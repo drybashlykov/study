@@ -1,0 +1,4 @@
+cats_vs_dogs_dataset/*
+name_dataset/*
+notebooks/.ipynb_checkpoints/*
+study_venv/*
