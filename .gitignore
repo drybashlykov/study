@@ -1,4 +1,6 @@
 cats_vs_dogs_dataset/*
 name_dataset/*
 notebooks/.ipynb_checkpoints/*
+notebooks/tmp.ipynb*
 study_venv/*
+*.ckpt
